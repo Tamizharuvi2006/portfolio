@@ -46,7 +46,7 @@ const projects = [
         stars: 43,
         forks: 8,
         color: "from-purple-500 to-violet-500"
-    }
+    },
     {
         id: 5,
         title: "WebPrompt",
